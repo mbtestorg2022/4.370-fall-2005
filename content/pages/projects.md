@@ -8,7 +8,7 @@ Students in the course are required to develop their own "technologies of inclus
 
 *   "Wonderbox" - Hope Ginsburg ([PDF]({{< baseurl >}}/resources/hope_ginsburg))
     
-*   "Dis/mantle" - Marisa Jahn (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/marissa_jahn))
+*   "Dis/mantle" - Marisa Jahn ([PDF]({{< baseurl >}}/resources/marissa_jahn))
     
 *   "Utterlounge" - Kate James ([PDF - 4.6 MB]({{< baseurl >}}/resources/kate_james))
     
