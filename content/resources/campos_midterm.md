@@ -8,6 +8,7 @@ image_metadata:
   caption: 'Student presents concept of a post-traumatic blanket: "sound as shelter".'
   credit: Image courtesy of Tim Campos.
   image-alt: Campos midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: campos_midterm.jpg
 uid: 9db03867-69b8-faed-c8c3-a610a78fffce

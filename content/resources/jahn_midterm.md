@@ -8,6 +8,7 @@ image_metadata:
   caption: Exploration of the dismantling of wearable objects.
   credit: Image courtesy of Marissa Jahn.
   image-alt: Jahn midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: jahn_midterm.jpg
 uid: c06a4354-7732-25a1-747e-1737e76aa8ac

@@ -7,6 +7,7 @@ image_metadata:
   caption: Michael Powell's midterm presentation.
   credit: Image courtesy of Michael Powell.
   image-alt: Powell midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: powell_midterm.jpg
 uid: 0b036eb5-4a35-1a24-db03-90255ef5c3c4

@@ -7,6 +7,7 @@ image_metadata:
   caption: Joe Dahmen's midterm presentation.
   credit: Image courtesy of Joe Dahmen.
   image-alt: Dahmen midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: dahmen_midterm.jpg
 uid: adecfba6-2dd4-4e84-b589-96dfc299658d

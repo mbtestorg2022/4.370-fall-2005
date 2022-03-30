@@ -10,6 +10,7 @@ image_metadata:
     cardboard case that can be reconfigured into a variety of shapes and spaces.
   credit: Image courtesy of Hope Ginsburg.
   image-alt: Wonderbox.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: ginsburg_final.jpg
 uid: 7b8988f7-1371-ba30-2e8b-dd5323e17a93

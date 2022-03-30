@@ -8,6 +8,7 @@ image_metadata:
   caption: Jae Rhim Lee presents preliminary investigations in her midterm presentation.
   credit: Image courtesy of Jae Rhim Lee.
   image-alt: Lee midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: lee_midterm.jpg
 uid: 1189e357-25b6-c481-8be1-08f80b432b9d

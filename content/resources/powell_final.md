@@ -7,6 +7,7 @@ image_metadata:
   caption: Michael Powell's final presentation.
   credit: Image courtesy of Michael Powell.
   image-alt: Powell final.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: powell_final.jpg
 uid: b0ddf480-e083-66c7-852c-fba32b633a50

@@ -8,6 +8,7 @@ image_metadata:
   caption: Bren Galvez-Moretti's midterm presentation.
   credit: Image courtesy of Bren Galvez-Moretti.
   image-alt: Moretti midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: moretti_midterm.jpg
 uid: 4414b71e-6f25-d566-9c96-334b2e756eea

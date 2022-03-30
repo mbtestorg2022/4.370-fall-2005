@@ -7,6 +7,7 @@ image_metadata:
   caption: Amber Frid-Jimenez's midterm presentation.
   credit: Image courtesy of Amber Frid-Jimenez.
   image-alt: Jimenez midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: jimenez_midterm.jpg
 uid: f022087a-0f69-66e3-3ef6-77754484888c

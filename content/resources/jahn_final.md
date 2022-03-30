@@ -10,6 +10,7 @@ image_metadata:
     the wearer to attach parts of the cloak to others' wardrobes.
   credit: Image courtesy of Marissa Jahn.
   image-alt: Jahn final.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: jahn_final.jpg
 uid: c8af6685-2562-c77b-be28-93dd0e8a3777

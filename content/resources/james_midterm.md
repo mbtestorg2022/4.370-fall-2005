@@ -12,6 +12,7 @@ image_metadata:
     a space for the second person with whom one might converse.'
   credit: Image courtesy of Kate James.
   image-alt: James midterm.
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: james_midterm.jpg
 uid: a7b6cd77-fa6b-5947-43f0-d390d7991674
